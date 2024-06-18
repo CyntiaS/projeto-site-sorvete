@@ -94,10 +94,10 @@ main h1 {
 main h2 {
     margin-left: -20px;
     font-family: var(--fonte-destaque);
-    color: var(--cor0);
+    color: var(--cor3);
     font-size: 1.7em;
     font-weight: normal;
-    background-image: linear-gradient(to right, var(--cor3), transparent);
+    background-image: linear-gradient(to right, var(--cor2), transparent);
     text-indent: 18px;
     font-weight: normal;
     
